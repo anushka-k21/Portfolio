@@ -1,0 +1,8 @@
+Flexbox in CSS
+DOM vs Virtual DOM
+Structure of a component in React
+Look into the css properties used
+Upload in github
+Modify details
+Use byte
+first part ke last me responsiveness
