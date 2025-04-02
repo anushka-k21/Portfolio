@@ -15,6 +15,6 @@ I have prepared my portfolio using HTML, CSS, Javascript and the React library o
 </ol>
 
 <h3>Screenshots of the Website</h3>
-![image1](Portfolio/s1.png)
-![image2](Portfolio/s2.png)
-![image3](Portfolio/s3.png)
+![image1](S1.png)
+![image2](S2.png)
+![image3](S3.png)
