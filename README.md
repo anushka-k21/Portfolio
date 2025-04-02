@@ -13,3 +13,8 @@ I have prepared my portfolio using HTML, CSS, Javascript and the React library o
     <b>Contact Form with EmailJS: </b> There's a form that allows users to send messages directly to your email, making communication simple.
   </li>
 </ol>
+
+<h3>Screenshots of the Website</h3>
+![image1](Portfolio/s1.png)
+![image2](Portfolio/s2.png)
+![image3](Portfolio/s3.png)
