@@ -15,6 +15,8 @@ I have prepared my portfolio using HTML, CSS, Javascript and the React library o
 </ol>
 
 <h3>Screenshots of the Website</h3>
-![image1](S1.png)
-![image2](S2.png)
-![image3](S3.png)
+![Image](https://github.com/user-attachments/assets/e1ed5f3a-8ae8-4f93-8e8e-1d867b36b0a3)
+
+![Image](https://github.com/user-attachments/assets/35dfff82-68de-43b3-8242-0651ba9266a4)
+
+![Image](https://github.com/user-attachments/assets/9c0c73cd-4602-4d18-8cf4-ab41df6fd2d9)
